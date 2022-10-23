@@ -18,7 +18,7 @@ You need to sign-in your wallet by Metamask and make sure Metamask in un-lock st
 
 When reach to Prodox.io, Click Launch App or you can visit directly. A Pop-up Wallet Connect Appear.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (23).png>)
 
 </details>
 
@@ -28,6 +28,6 @@ When reach to Prodox.io, Click Launch App or you can visit directly. A Pop-up Wa
 
 Metamask Wallet will ask for signing to Prodox. When sign, your account will be created automatically.
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 </details>

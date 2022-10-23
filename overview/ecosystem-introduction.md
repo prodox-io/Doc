@@ -21,4 +21,4 @@ The Prodox system for users includes 3 main actions when interacting with Metama
 
 ## ECOSYSTEM STRUCTURE
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
