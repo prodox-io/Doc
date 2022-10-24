@@ -27,3 +27,7 @@
   * [🎦 Watch To Earn](prodox-system/service-details/watch-to-earn.md)
   * [👤 Power User](prodox-system/service-details/power-user.md)
   * [⛏ DOX Mining](prodox-system/service-details/dox-mining.md)
+
+***
+
+* [WHITE PAPER](https://prodox.io/prodox\_whitepaper.pdf)
