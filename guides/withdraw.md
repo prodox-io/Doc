@@ -2,7 +2,7 @@
 
 ## STEP 1 - BALANCE TRANSFER
 
-![](<../.gitbook/assets/image (22).png>)
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 When finished Balance transfer, need to wait for 1 or 2 minutes to get the green stick. When have green-stick, you can withdraw the token
 
