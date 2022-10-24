@@ -10,11 +10,11 @@ description: >-
 
 **`Information`**
 
-> <mark style="color:blue;"></mark>[<mark style="color:blue;">Website</mark>](https://prodox.io)<mark style="color:blue;"></mark>
+> <mark style="color:blue;"></mark>[<mark style="color:blue;">Website: https://Prodox.io</mark>](https://prodox.io)<mark style="color:blue;"></mark>
 >
 > <mark style="color:blue;">BEP20-Contract: 0xae90Ae6320c60dA6cBdd35335cB95c76f5700023</mark>
 >
-> <mark style="color:blue;">SYMBOL</mark>: <mark style="color:blue;">DOX</mark>
+> <mark style="color:blue;">SYMBOL:</mark> <mark style="color:blue;">DOX</mark>
 >
 > <mark style="color:blue;">DECIMAL: 18</mark>
 >
