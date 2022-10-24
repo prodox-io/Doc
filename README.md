@@ -52,8 +52,8 @@ description: >-
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="prodox-system/service-details/" %}
-[service-details](prodox-system/service-details/)
+{% content-ref url="prodox-system/features-details/" %}
+[features-details](prodox-system/features-details/)
 {% endcontent-ref %}
 
 ## Get Started

@@ -8,5 +8,5 @@ DOX will require a minimum stake of 1 amount of DOX to ensure that the miner is 
 This amount of Stake will increase over time.\
 The donation of Dox numbers to miners will be maintained by the fees of the service that Dox provides. This balances out PRODOX’s economic structures
 
-<figure><img src="../../.gitbook/assets/Mining-removebg-preview.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Mining-removebg-preview.png" alt=""><figcaption></figcaption></figure>
 

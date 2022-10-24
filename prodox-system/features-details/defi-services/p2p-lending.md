@@ -38,4 +38,4 @@ Loan cost will use Prodox Token as transaction fee.
 
 This transaction fee will automatically convert into Prodox Token and add to liquidity (Insurance Fund)
 
-<figure><img src="../../.gitbook/assets/p2p_lending-removebg-preview.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/p2p_lending-removebg-preview.png" alt=""><figcaption></figcaption></figure>

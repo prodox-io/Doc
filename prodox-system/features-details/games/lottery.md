@@ -10,4 +10,4 @@ When the user plays, he will buy a ticket with a value of 1000 DOX (the Price ca
 
 Rewards will be cumulative every week and unlimited.
 
-<figure><img src="../../.gitbook/assets/Lottery-removebg-preview.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Lottery-removebg-preview.png" alt=""><figcaption></figcaption></figure>
