@@ -6,6 +6,8 @@ description: Prodox have 03 Main Features
 
 {% hint style="info" %}
 **Tips: You can visit** [**Links Map**](links-map.md) **to reach Feature of Prodox**&#x20;
+
+**Quick Link:** [**Details Of Prodox Features**](../prodox-system/features-details/)****
 {% endhint %}
 
 ## 1-Defi App Feature
