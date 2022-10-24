@@ -1,5 +1,7 @@
 # 🎲 High And Low
 
+([Try in https://prodox.io/game/high-low](https://prodox.io/game/high-low))
+
 There will be a random number from 1 to 9999.&#x20;
 
 If the random number is greater than or equal to 5000 then the result is High&#x20;

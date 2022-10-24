@@ -1,5 +1,7 @@
 # 🎲 Lucky Number
 
+([Try in https://prodox.io/game/lucky-number](https://prodox.io/game/lucky-number))
+
 When players join, there will be 3 chances to draw 3 random numbers from 1 to 999999\
 Each spin costs 100 DOX\
 This DOX number will be transferred to an account called **Jackpot Pool**.\
