@@ -6,14 +6,14 @@
 
 * [💡 Ecosystem Introduction](overview/ecosystem-introduction.md)
 * [🔗 Links Map](overview/links-map.md)
-* [✨ Prodox Features](overview/prodox-features.md)
-* [👷 Road map](overview/road-map.md)
-* [💹 Prodox Tokenomic](overview/prodox-tokenomic.md)
+* [⏺ Prodox Features](overview/prodox-features.md)
+* [⏺ Road map](overview/road-map.md)
+* [⏺ Prodox Tokenomic](overview/prodox-tokenomic.md)
 
 ## Guides
 
-* [💰 Deposit](guides/deposit.md)
-* [💸 Withdraw](guides/withdraw.md)
+* [1⃣ Deposit](guides/deposit.md)
+* [2⃣ Withdraw](guides/withdraw.md)
 
 ## PRODOX SYSTEM
 
