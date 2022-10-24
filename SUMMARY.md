@@ -36,4 +36,6 @@
 
 ***
 
-* [WHITE PAPER](https://prodox.io/prodox\_whitepaper.pdf)
+* [Whitepapers](https://prodox.io/prodox\_whitepaper.pdf)
+* [Privacy Policy](https://prodox.io/Prodox-privacy-policies.pdf)
+* [Terms & Conditions](https://prodox.io/Prodox-terms-conditions.pdf)
