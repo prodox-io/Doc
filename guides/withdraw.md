@@ -1,4 +1,4 @@
-# 💸 Withdraw
+# 3⃣ Withdraw
 
 ## STEP 1 - BALANCE TRANSFER
 
@@ -8,7 +8,7 @@ When finished Balance transfer, need to wait for 1 or 2 minutes to get the green
 
 ## STEP 2 - CONFIRM WITHDRAWAL
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

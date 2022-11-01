@@ -1,8 +1,8 @@
 ---
-description: (Enable only 01 time for each Wallet Address)
+description: (Enable Token will be launched only 01 time for each Wallet Address)
 ---
 
-# 💰 Deposit
+# 2⃣ Deposit
 
 ## STEP 1 - ENABLE TOKEN
 

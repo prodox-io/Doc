@@ -12,8 +12,9 @@
 
 ## Guides
 
-* [1⃣ Deposit](guides/deposit.md)
-* [2⃣ Withdraw](guides/withdraw.md)
+* [1⃣ Creating Account](guides/creating-account.md)
+* [2⃣ Deposit](guides/deposit.md)
+* [3⃣ Withdraw](guides/withdraw.md)
 
 ## PRODOX SYSTEM
 

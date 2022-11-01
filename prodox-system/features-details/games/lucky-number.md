@@ -17,4 +17,4 @@ The leaderboard will aggregate the top 10 players with the highest scores.\
 * The 5th person gets 5%
 * The 6th to 10th people receive 1%
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
