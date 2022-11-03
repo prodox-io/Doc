@@ -10,4 +10,4 @@ If the random number is less than 5000 then the result is Low&#x20;
 
 If you choose High, the result is High, and you win If you choose Low, the result is Low, and you win
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>

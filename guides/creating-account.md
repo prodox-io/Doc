@@ -28,8 +28,8 @@ Metamask will ask User to sign.
 
 When User "Sign", Prodox will automatically create Account for User
 
-![](../.gitbook/assets/image.png)
-
 ![](<../.gitbook/assets/image (1).png>)
+
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ##
