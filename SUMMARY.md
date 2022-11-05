@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Welcome to PRODOX](README.md)
+* [✨ GET START](get-start.md)
 
 ## Overview
 
@@ -32,7 +33,7 @@
     * [🎲 Lucky Number (In develop)](prodox-system/features-details/games/lucky-number-in-develop.md)
   * [EARNING SERVICES](prodox-system/features-details/earning-services/README.md)
     * [🎦 Watch To Earn](prodox-system/features-details/earning-services/watch-to-earn.md)
-    * [⛏ DOX Mining](prodox-system/features-details/earning-services/dox-mining.md)
+    * [⛏ PRODDOX Mining](prodox-system/features-details/earning-services/proddox-mining.md)
   * [OTHER FEATURES](prodox-system/features-details/other-features/README.md)
     * [👤 Power User](prodox-system/features-details/other-features/power-user.md)
 

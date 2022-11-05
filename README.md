@@ -39,35 +39,3 @@ description: >-
 > <mark style="color:blue;"></mark>[<mark style="color:blue;">Youtube Channel</mark>](https://www.youtube.com/channel/UC-tp98j8RhwNnUw72WdVHOA)<mark style="color:blue;"></mark>
 
 ## Quick links
-
-{% content-ref url="overview/ecosystem-introduction.md" %}
-[ecosystem-introduction.md](overview/ecosystem-introduction.md)
-{% endcontent-ref %}
-
-{% content-ref url="overview/prodox-features.md" %}
-[prodox-features.md](overview/prodox-features.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="prodox-system/features-details/" %}
-[features-details](prodox-system/features-details/)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get set up with our product quickly and easily.
-
-{% content-ref url="prodox-system/user-account/" %}
-[user-account](prodox-system/user-account/)
-{% endcontent-ref %}
-
-{% content-ref url="prodox-system/user-account/device-compatible.md" %}
-[device-compatible.md](prodox-system/user-account/device-compatible.md)
-{% endcontent-ref %}
-
-{% content-ref url="prodox-system/user-account/user-action-definition.md" %}
-[user-action-definition.md](prodox-system/user-account/user-action-definition.md)
-{% endcontent-ref %}
