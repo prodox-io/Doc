@@ -20,8 +20,8 @@ description: >-
 [withdraw.md](guides/withdraw.md)
 {% endcontent-ref %}
 
-{% content-ref url="prodox-system/features-details/earning-services/proddox-mining.md" %}
-[proddox-mining.md](prodox-system/features-details/earning-services/proddox-mining.md)
+{% content-ref url="prodox-system/features-details/earning-services/mining.md" %}
+[mining.md](prodox-system/features-details/earning-services/mining.md)
 {% endcontent-ref %}
 
 ## Quick Access
