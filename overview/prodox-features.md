@@ -14,7 +14,7 @@ description: Prodox have 03 Main Features
 
 Product's Defi product will grow to cover almost all of a user's basic Defi needs. In addition, Prodox will develop more specialized products for some special users.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 2-Games Feature
 

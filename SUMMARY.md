@@ -16,7 +16,8 @@
 * [1⃣ Creating Account](guides/creating-account.md)
 * [2⃣ Deposit](guides/deposit.md)
 * [3⃣ Withdraw](guides/withdraw.md)
-* [4⃣ HOW TO MININING](guides/how-to-minining.md)
+* [4⃣ How to mining](guides/how-to-mining.md)
+* [5⃣ How to expand your network](guides/how-to-expand-your-network.md)
 
 ## PRODOX SYSTEM
 
