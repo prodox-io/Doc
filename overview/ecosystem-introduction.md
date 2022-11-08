@@ -19,6 +19,10 @@ The Prodox system for users includes 3 main actions when interacting with Metama
 
 2- Withdraw and deposit.
 
-## ECOSYSTEM STRUCTURE
+## ECOSYSTEM&#x20;
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+## STRUCTURE
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
