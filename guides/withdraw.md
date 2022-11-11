@@ -6,13 +6,13 @@ User simply press Withdraw, input the Amount to withdraw.
 
 Note: Withdraw function is only available for SPOT Balance
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## STEP 2 - CONFIRM WITHDRAWAL
 
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## VIDEO TUTORIAL
 

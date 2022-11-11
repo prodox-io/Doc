@@ -16,7 +16,7 @@ This is the act of confirming that the wallet subject is interacting with Prodox
 
 <summary>Deposit</summary>
 
-This is the act of sending assets into the system to use Prodox products. For more details, click on [this link](user-action-definition.md#as-an-editor) to view instructions. This action will cost gas fee and system fee
+This is the act of sending assets into the system to use Prodox products. For more details, click on[ this link](user-action-definition.md#deposit) to view instructions. This action will cost gas fee and system fee
 
 </details>
 

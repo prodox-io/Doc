@@ -25,4 +25,4 @@ The Prodox system for users includes 3 main actions when interacting with Metama
 
 ## STRUCTURE
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
