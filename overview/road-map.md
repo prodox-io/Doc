@@ -70,14 +70,13 @@
 * [x] Finish Based System
 * [x] Game High-Low (Extra)
 * [x] Game Lucky Number (Extra)
-* [x] Mobile Mining App
-* [x] Website UI Development
 {% endtab %}
 
 {% tab title="In Progress" %}
+* [ ] Website UI Development
 * [ ] Launching Staking
 * [ ] Launching Lottery
 * [ ] Launching NFT Market (Beta)
+* [ ] Mobile Mining App
 {% endtab %}
 {% endtabs %}
-
