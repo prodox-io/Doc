@@ -28,6 +28,6 @@ When reach to Prodox.io, Click Launch App or you can visit directly. A Pop-up Wa
 
 Metamask Wallet will ask for signing to Prodox. When sign, your account will be created automatically.
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 </details>

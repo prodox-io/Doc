@@ -8,6 +8,8 @@ description: >-
 
 ## Prodox Overview
 
+[中文请点击这里](https://docs.prodox.io/cn)
+
 **`Information`**
 
 > <mark style="color:blue;"></mark>[<mark style="color:blue;">Website: https://Prodox.io</mark>](https://prodox.io)<mark style="color:blue;"></mark>
