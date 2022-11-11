@@ -1,20 +1,18 @@
 # 3⃣ Withdraw
 
-## STEP 1 - BALANCE TRANSFER
+## STEP 1 - PRESS WITHDRAW
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+User simply press Withdraw, input the Amount to withdraw.
 
-When finished Balance transfer, need to wait for 1 or 2 minutes to get the green stick. When have green-stick, you can withdraw the token
+Note: Withdraw function is only available for SPOT Balance
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## STEP 2 - CONFIRM WITHDRAWAL
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-
-## FLOW CHART
-
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## VIDEO TUTORIAL
 
