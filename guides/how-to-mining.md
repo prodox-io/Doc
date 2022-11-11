@@ -1,4 +1,4 @@
-# 4⃣ HOW TO MININING
+# 4⃣ How to mining
 
 {% hint style="info" %}
 To learn more about $DOX Mining, check [check here](../prodox-system/features-details/earning-services/mining.md)
@@ -29,6 +29,8 @@ Go to page Mining, press Start Mining
 <figure><img src="../.gitbook/assets/Mobile-3.png" alt=""><figcaption><p><em>Note: UX may change depend on version of APP</em></p></figcaption></figure>
 
 ## VIDEO TUTORIAL
+
+{% embed url="https://www.youtube.com/watch?v=cY8wUbW6pGY" %}
 
 _(Uploading soon)_
 

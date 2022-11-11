@@ -50,4 +50,8 @@ When User "Sign", Prodox will automatically create Account for User
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 
+## VIDEO GUIDE
+
+{% embed url="https://www.youtube.com/watch?v=pCfqJ2RuSwg" %}
+
 ##
