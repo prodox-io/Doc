@@ -5,7 +5,7 @@ description: Prodox has a network system for user.
 # 5⃣ How to expand your network
 
 {% hint style="info" %}
-To learn more about $DOX Mining, check [check here](../prodox-system/features-details/earning-services/mining.md)
+To learn more about $DOX Mining, [check here](../prodox-system/features-details/earning-services/mining.md)
 {% endhint %}
 
 ## STEP 1 - GO TO YOUR USER DASHBOARD

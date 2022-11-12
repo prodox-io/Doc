@@ -1,7 +1,7 @@
 # 4⃣ How to mining
 
 {% hint style="info" %}
-To learn more about $DOX Mining, check [check here](../prodox-system/features-details/earning-services/mining.md)
+To learn more about $DOX Mining,  [check here](../prodox-system/features-details/earning-services/mining.md)
 {% endhint %}
 
 ## STEP 1 - CREATE YOUR ACCOUNT
