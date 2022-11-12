@@ -20,8 +20,6 @@ Staking DOX products include&#x20;
 
 Staking DOX will have APR as calculate tab Below:
 
-\<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
-
 |                              |     | 7    | 21    | 60    | 90    | 120   | 240 days |
 | ---------------------------- | --- | ---- | ----- | ----- | ----- | ----- | -------- |
 | DOX 1\~100.000 (Silver)      | DOX | 0.5% | 0.65% | 0.9%  | 1.14% | 1.35% | 2.21%    |
