@@ -1,3 +1,7 @@
+---
+description: Prodox has a network system for user.
+---
+
 # 5⃣ How to staking
 
 {% hint style="info" %}
