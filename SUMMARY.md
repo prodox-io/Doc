@@ -18,7 +18,7 @@
 * [3⃣ Withdraw](guides/withdraw.md)
 * [4⃣ How to mining](guides/how-to-mining.md)
 * [5⃣ How to expand your network](guides/how-to-expand-your-network.md)
-* [5⃣ How to staking](guides/how-to-staking.md)
+* [6⃣ How to staking](guides/how-to-staking.md)
 
 ## PRODOX SYSTEM
 

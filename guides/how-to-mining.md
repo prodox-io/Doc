@@ -12,11 +12,12 @@ _(If you already had account, you can ignore this step)_
 
 ## STEP 2 - INSTALL APP (ANDROID SUPPORT ONLY)
 
-You can download APK Installing file in:
+You can download by
 
 * Our treelink [https://linktr.ee/prodox](https://linktr.ee/prodox)
 * Our website [https://prodox.io/](https://prodox.io/) (Scroll down to Mobile Device)
-* Direct download [https://bit.ly/3Uhdck2](https://bit.ly/3Uhdck2)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.prodoxapp)
+* ~~Direct download~~ [~~https://bit.ly/3Uhdck2~~](https://bit.ly/3Uhdck2)~~~~
 
 ## STEP 3: OPEN APP SIGN-IN & STARTING MINE
 
