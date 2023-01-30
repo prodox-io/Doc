@@ -34,7 +34,7 @@ description: >-
 >
 > <mark style="color:blue;"></mark>[<mark style="color:blue;">Medium</mark>](https://medium.com/@prodox)<mark style="color:blue;"></mark>
 >
-> <mark style="color:blue;"></mark>[<mark style="color:blue;">Discord</mark>](https://discord.gg/dbrNGZPF)<mark style="color:blue;"></mark>
+> <mark style="color:blue;">Discord</mark>
 >
 > <mark style="color:blue;"></mark>[<mark style="color:blue;">Reddit</mark>](https://www.reddit.com/r/Prodox/)<mark style="color:blue;"></mark>
 >

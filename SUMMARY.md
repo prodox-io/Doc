@@ -19,6 +19,7 @@
 * [4⃣ How to mining](guides/how-to-mining.md)
 * [5⃣ How to expand your network](guides/how-to-expand-your-network.md)
 * [6⃣ How to staking](guides/how-to-staking.md)
+* [7⃣ How to use P2P Exchange (Pi Network)](guides/how-to-use-p2p-exchange-pi-network.md)
 
 ## PRODOX SYSTEM
 
@@ -27,7 +28,7 @@
   * [🧑 User Action Definition](prodox-system/user-account/user-action-definition.md)
 * [🛠 FEATURES DETAILS](prodox-system/features-details/README.md)
   * [DEFI SERVICES](prodox-system/features-details/defi-services/README.md)
-    * [💰 P2P Lending](prodox-system/features-details/defi-services/p2p-lending.md)
+    * [💰 Pi Network - P2P Exchange](prodox-system/features-details/defi-services/pi-network-p2p-exchange.md)
     * [🌟 Staking](prodox-system/features-details/defi-services/staking.md)
   * [GAMES](prodox-system/features-details/games/README.md)
     * [🎲 High And Low](prodox-system/features-details/games/high-and-low.md)
