@@ -40,6 +40,12 @@ Whether you are a Pi seller or buyer, the process is simple and secure. If you a
 
 Prodox P2P (#Pinetwork) offers a fast, secure, and convenient way to trade Pi Network. Sign up now and start trading!
 
+## FLOWCHART - HOW TO BUY/SELL
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>How to buy </p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>How to sell</p></figcaption></figure>
+
 ## VIDEO TUTORIAL
 
 {% embed url="https://www.youtube.com/watch?v=vbJ-6Oo7Ulk" %}

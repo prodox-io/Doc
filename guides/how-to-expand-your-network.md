@@ -16,5 +16,5 @@ Just simply go to prodox.io/user and connect your wallet
 
 In User Dashboard you will see your ref link
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

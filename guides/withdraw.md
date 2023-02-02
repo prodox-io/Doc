@@ -12,7 +12,7 @@ Note: Withdraw function is only available for SPOT Balance
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## VIDEO TUTORIAL
 
