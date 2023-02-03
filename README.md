@@ -10,6 +10,8 @@ description: >-
 
 [中文请点击这里](https://docs.prodox.io/cn)
 
+[TIẾNG VIỆT](https://app.gitbook.com/o/VZGqau77kg7We4uxnk5U/s/0BqkHOZByRbOuN38OfA8/)
+
 **`Information`**
 
 > <mark style="color:blue;"></mark>[<mark style="color:blue;">Website: https://Prodox.io</mark>](https://prodox.io)<mark style="color:blue;"></mark>
