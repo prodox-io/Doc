@@ -16,7 +16,9 @@ description: >-
 
 > <mark style="color:blue;"></mark>[<mark style="color:blue;">Website: https://Prodox.io</mark>](https://prodox.io)<mark style="color:blue;"></mark>
 >
-> <mark style="color:blue;">BEP20-Contract: 0xae90Ae6320c60dA6cBdd35335cB95c76f5700023</mark>
+> ~~<mark style="color:blue;">BEP20-Contract: 0xae90Ae6320c60dA6cBdd35335cB95c76f5700023</mark>~~
+>
+> <mark style="color:blue;"></mark>[<mark style="color:blue;">Contract Prodox 2.0:</mark> 0x953c1603e18a5593EaA9e35Bf8AEFDB134B267e7](https://bscscan.com/address/0x953c1603e18a5593EaA9e35Bf8AEFDB134B267e7)
 >
 > <mark style="color:blue;">SYMBOL:</mark> <mark style="color:blue;">DOX</mark>
 >
@@ -24,7 +26,7 @@ description: >-
 >
 > <mark style="color:blue;">TOTAL SUPPLY: 500,000,000 TOKEN</mark>
 >
-> <mark style="color:blue;"></mark>[<mark style="color:blue;">BSC Scanlink</mark>](https://bscscan.com/address/0xae90Ae6320c60dA6cBdd35335cB95c76f5700023)<mark style="color:blue;"></mark>
+> <mark style="color:blue;"></mark>[<mark style="color:blue;">BSC Scanlink</mark>](https://bscscan.com/address/0x953c1603e18a5593EaA9e35Bf8AEFDB134B267e7)<mark style="color:blue;"></mark>
 >
 > <mark style="color:blue;"></mark>[<mark style="color:blue;">Telegram Announce Channel</mark>](https://t.me/prodoxann)
 >
