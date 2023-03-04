@@ -18,7 +18,13 @@ description: >-
 >
 > ~~<mark style="color:blue;">BEP20-Contract: 0xae90Ae6320c60dA6cBdd35335cB95c76f5700023</mark>~~
 >
-> <mark style="color:blue;"></mark>[<mark style="color:blue;">Contract Prodox 2.0:</mark> 0x953c1603e18a5593EaA9e35Bf8AEFDB134B267e7](https://bscscan.com/address/0x953c1603e18a5593EaA9e35Bf8AEFDB134B267e7)
+> <mark style="color:blue;"></mark>[<mark style="color:blue;">Contract Prodox 2.0:</mark> ](https://bscscan.com/address/0x953c1603e18a5593EaA9e35Bf8AEFDB134B267e7)
+>
+> * [https://bscscan.com/token/0x953c1603e18a5593eaa9e35bf8aefdb134b267e7](https://bscscan.com/token/0x953c1603e18a5593eaa9e35bf8aefdb134b267e7)
+> * [https://www.mintme.com/explorer/token/0x51b341f622ece802a3df34ffd7c87ebd497ddcfc](https://www.mintme.com/explorer/token/0x51b341f622ece802a3df34ffd7c87ebd497ddcfc)
+> * [https://polygonscan.com/address/0x8dabd2ce6a593412c5b0a952c7f44351dde222b4](https://polygonscan.com/address/0x8dabd2ce6a593412c5b0a952c7f44351dde222b4)
+> * [https://celoscan.io/address/0x59a10a4dce82cdf233eb2c0ddcda6e09eb7f8499](https://celoscan.io/address/0x59a10a4dce82cdf233eb2c0ddcda6e09eb7f8499)
+> * [https://scan.coredao.org/address/0xbb4ddece10390cda3fba4c45e5a872042d2a8b77](https://scan.coredao.org/address/0xbb4ddece10390cda3fba4c45e5a872042d2a8b77)
 >
 > <mark style="color:blue;">SYMBOL:</mark> <mark style="color:blue;">DOX</mark>
 >
