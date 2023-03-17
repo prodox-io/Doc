@@ -20,11 +20,37 @@ description: >-
 >
 > <mark style="color:blue;"></mark>[<mark style="color:blue;">Contract Prodox 2.0:</mark> ](https://bscscan.com/address/0x953c1603e18a5593EaA9e35Bf8AEFDB134B267e7)
 >
-> * [https://bscscan.com/token/0x953c1603e18a5593eaa9e35bf8aefdb134b267e7](https://bscscan.com/token/0x953c1603e18a5593eaa9e35bf8aefdb134b267e7)
-> * [https://www.mintme.com/explorer/token/0x51b341f622ece802a3df34ffd7c87ebd497ddcfc](https://www.mintme.com/explorer/token/0x51b341f622ece802a3df34ffd7c87ebd497ddcfc)
-> * [https://polygonscan.com/address/0x8dabd2ce6a593412c5b0a952c7f44351dde222b4](https://polygonscan.com/address/0x8dabd2ce6a593412c5b0a952c7f44351dde222b4)
-> * [https://celoscan.io/address/0x59a10a4dce82cdf233eb2c0ddcda6e09eb7f8499](https://celoscan.io/address/0x59a10a4dce82cdf233eb2c0ddcda6e09eb7f8499)
-> * [https://scan.coredao.org/address/0xbb4ddece10390cda3fba4c45e5a872042d2a8b77](https://scan.coredao.org/address/0xbb4ddece10390cda3fba4c45e5a872042d2a8b77)
+> BSC:&#x20;
+>
+> * DOX 0x953c1603e18a5593EaA9e35Bf8AEFDB134B267e7
+> * XOD 0xc3f256ce862024d50A8565AB3c4A51CEb30d6DC4
+>
+> CELO:&#x20;
+>
+> * DOX: 0xbabeAA76Ba5d05037Cfc7004E18E3EB65DB1BB28&#x20;
+> * XOD: 0x1BF0a2308f846E8334433bA86b6ab36e8D05C026
+>
+> POLYGON:&#x20;
+>
+> * DOX: 0x952E5501560bf0258c37306658efAEAF2C517bc1&#x20;
+> * XOD: 0x2CEe8c22Bb654FcA6060a679E505dF6603B2D20B
+>
+> AVAX&#x20;
+>
+> * DOX: 0xae90Ae6320c60dA6cBdd35335cB95c76f5700023&#x20;
+> * XOD: 0x4B3B8CFB55C1F07be13055cA94d42ccfc6bE9972
+>
+> HARMONY&#x20;
+>
+> * DOX: 0x4B3B8CFB55C1F07be13055cA94d42ccfc6bE9972&#x20;
+> * XOD: 0x2CEe8c22Bb654FcA6060a679E505dF6603B2D20B
+>
+> MOONRIVER&#x20;
+>
+> * DOX: 0x952E5501560bf0258c37306658efAEAF2C517bc1&#x20;
+> * XOD: 0x8dabd2ce6A593412C5B0a952C7F44351dde222b4
+>
+>
 >
 > <mark style="color:blue;">SYMBOL:</mark> <mark style="color:blue;">DOX</mark>
 >
